@@ -12,6 +12,6 @@ Today's sign language recognition models require large training corpora of labor
 
 <br>
 
-- The dataset is distributed via [Hugging Face](). 
-- We provide a mapping of classes from our dataset to [WLASL](https://dxli94.github.io/WLASL/) and [ASLLVD](https://www.bu.edu/asllrp/av/dai-asllvd.html). Refer to the respective publications if you wish to obtain their data.
-- To reproduce experiments using the SPOTER architecture, please refer to [this GitHub repo](https://github.com/maty-bohacek/spoter).
+- The dataset is distributed via [Hugging Face]().
+- To reproduce experiments using the SPOTER architecture, see [this GitHub repo](https://github.com/maty-bohacek/spoter).
+- We provide a mapping of classes from our dataset to [WLASL](https://dxli94.github.io/WLASL/) and [ASLLVD](https://www.bu.edu/asllrp/av/dai-asllvd.html). Refer to the respective publications if you wish to obtain their data as well.
